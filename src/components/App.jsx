@@ -72,6 +72,10 @@ export const App = () => {
   );
 };
 
+// Widget odpowiedzi
+// Utworzone repozytorium goit-react-hw-04-feedback.
+// Przeprowadź refaktor kodu zadania «Widget odpowiedzi», wykorzystując hooki React.
+
 // 1 - Widget odpowiedzi
 // Jak większość firm, kawiarnia Expresso zbiera feedback od swoich klientów. Twoim zadaniem jest stworzenie aplikacji dla zbierania statystyk. Są tylko trzy warianty odpowiedzi: dobry, neutralny, zły.
 

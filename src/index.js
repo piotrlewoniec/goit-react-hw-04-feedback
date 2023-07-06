@@ -9,20 +9,24 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </React.StrictMode>
 );
 
+// Kryteria zaliczenia
 // Użyj tego szablonu projektu React jako punktu wyjścia dla swojej aplikacji.
 // https://github.com/goitacademy/react-homework-template#readme
-// Utworzone zostało repozytorium goit-react-hw-02-feedback i goit-react-hw-02-phonebook.
 
-// W zadaniu domowym znajdują się dwa odnośniki: do plików źródłowych i strony roboczej każdego zadania na GitHub Pages.
+// W zadaniu domowym znajdują się odnośniki do źródłowego pliku i roboczej strony projektów na GitHub Pages.
+// Po uruchomieniu kodu zadania na konsoli nie ma błędów i ostrzeżeń.
+// Dla każdego komponentu istnieje oddzielny folder z plikiem komponentu React i plikiem stylów.
+// Dla komponentów opisane zostały propTypes.
+// Nazwy komponentów są zrozumiałe, opisowe.
 
-// Po uruchomieniu kodu zadania, na konsoli nie ma błędów i ostrzeżeń.
+// Widget odpowiedzi
+// Utworzone repozytorium goit-react-hw-04-feedback.
+// Przeprowadź refaktor kodu zadania «Widget odpowiedzi», wykorzystując hooki React.
 
-// Dla każdego komponentu istnieje oddzielny plik w folderze src/components.
+// Książka kontaktów
+// Utworzone zostało repozytorium goit-react-hw-04-phonebook.
+// Przeprowadź refaktor kodu zadania «Książka kontaktów», wykorzystując hooki React.
 
-// Dla komponentów opisane są propTypes.
-
-// Wszystko, czego komponent żąda w postaci propsów, przekazywane jest do niego przy wywołaniu.
-
-// Kod JS jest czysty i zrozumiały, wykorzystany został Prettier.
-
-// Stylizacja wykonana CSS-modułami lub Styled Components.
+// Wyszukiwanie obrazów
+// Utworzone zostało repozytorium goit-react-hw-04-images.
+// Przeprowadź refaktor kodu zadania «Wyszukiwanie obrazów», wykorzystując hooki React.
